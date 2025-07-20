@@ -39,3 +39,11 @@ iframe {
 Example description
 </div>
 </div>
+
+## Research Interests
+
+- Interest 1
+- Interest 2
+
+### Projects
+- **Project A**: brief description
