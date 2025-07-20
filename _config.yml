@@ -27,14 +27,19 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
+  - name: "CV"
   - name: research
-  - name: software
-  - name: team
   - name: teaching
-  - name: blogs
+
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Research"
+    url: "/research/"
+  - title: "CV"
+    url: "/cv/"
 
 include:
   - .htaccess
