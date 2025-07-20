@@ -7,6 +7,7 @@ permalink: /teaching/
 
 ## Teaching
 
-* Introduction to Physics (1961--63) [Textbook here!](https://www.feynmanlectures.caltech.edu/)
+* Introduction to Economics (2023) details
+* Data Analysis for Business (2024-2025) details
 
 
