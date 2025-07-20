@@ -41,8 +41,6 @@ navbar:
   - title: "Research"
     url: "/research/"
   
-theme: flatly
-
 include:
   - .htaccess
   - _pages
