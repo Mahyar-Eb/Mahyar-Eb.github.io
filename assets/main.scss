@@ -19,14 +19,3 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
   border: none !important;
 }
 
-/* Match footer background color to navbar */
-.panel-footer {
-  background-color: #738383 !important;
-  color: white !important; /* optional: improves contrast */
-}
-
-.panel-footer h5,
-.panel-footer p,
-.panel-footer a {
-  color: white !important;
-}
