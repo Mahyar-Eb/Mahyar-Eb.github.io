@@ -27,7 +27,7 @@ permalink: /
 <div class="justified">
 ### Hi, and thanks for visiting!
 
-I’m a Ph.D. candidate in Economics at the Darla Moore School of Business, University of South Carolina. I hold a Master’s in Financial Management and a Bachelor’s in Business Administration.
+I’m a Ph.D. candidate in Economics at the Darla Moore School of Business, University of South Carolina. I hold a Master’s degree in Financial Management and a Bachelor’s degree in Business Administration.
 
 My research explores the intersection of financial economics, banking, and AI—especially machine learning, natural language processing (NLP), neural networks, large language models (LLMs), and algorithmic fairness. I study how these tools are reshaping credit markets, financial behavior, and regulation.
 
