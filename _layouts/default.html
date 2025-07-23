@@ -1,27 +1,20 @@
 <!DOCTYPE html>
 <html>
+
   {% include head.html %}
-  
-  <style>
-    .content-justify {
-      text-align: justify;
-      text-justify: inter-word;       /* For better spacing control */
-      hyphens: auto;                  /* Allow hyphenation */
-      word-break: break-word;         /* Prevent overflow */
-    }
-  </style>
 
   <body>
+
     {% include header.html %}
 
     <div class="container-fluid">
       <div class="row justify-content-center">
-        <div class="content-justify">
-          {{ content }}
-        </div>
+        {{ content }}
       </div>
     </div>
 
     {% include footer.html %}
+
   </body>
+
 </html>
