@@ -88,3 +88,14 @@ img {
 .MathJax_ref {
   fill: #00bc8c!important;
 }
+
+.full-width-footer {
+  background-color: #6c7d7d; // same as the navbar gray color
+  width: 100%;
+}
+
+.full-width-footer .container-footer {
+  max-width: 100%; // override the current 800px
+  padding-left: 20px;
+  padding-right: 20px;
+}
