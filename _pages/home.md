@@ -23,9 +23,9 @@ permalink: /
   }
 </style>
 
-### Hi, and thanks for visiting!
 
 <div class="justified">
+### Hi, and thanks for visiting!
 
 I’m a Ph.D. candidate in Economics at the Darla Moore School of Business, University of South Carolina. I hold a Master’s in Financial Management and a Bachelor’s in Business Administration.
 
