@@ -1,6 +1,13 @@
-### Research
------------
+---
+title: "Research"
+date: 2024-12-01
+layout: gridlay
+sitemap: false
+permalink: /research/
+---
 
+### Research
+---
 **Research interest:** Banking, Fintech, Corporate Finance, Household Finance, Financial Innovation, Applied Artificial Intelligence
 
 ---
