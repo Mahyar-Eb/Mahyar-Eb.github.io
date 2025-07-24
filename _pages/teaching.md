@@ -9,7 +9,7 @@ permalink: /Teaching/
 
 ---
 
-### Instructor
+#### **Instructor**
 
 **College of Business Administration, University of Wisconsin - La Crosse**
 
