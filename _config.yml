@@ -28,8 +28,8 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: "CV"
-  - name: Research
-  - name: Teaching
+  - name: research
+  - name: teaching
 
   
 include:
