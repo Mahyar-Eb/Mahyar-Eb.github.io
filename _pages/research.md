@@ -6,11 +6,11 @@ permalink: /Research/
 ---
 
 ### Research
-**---**
+---
 
 **Research interest:** Banking, Fintech, Corporate Finance, Household Finance, Financial Innovation, Applied Artificial Intelligence
 
-**---**
+---
 
 #### **Working Papers**
 - **"Human-AI Synergy in Marketplace Lending: Complementary Strength or Redundancy?"**, JMP
@@ -25,7 +25,7 @@ Abstract: This paper examines the impact of AI adoption on bank loan performance
   
 Abstract: Credit supply plays a crucial role in the economy, especially during periods of economic and financial crises. As emerging and rapidly growing fintech lenders, marketplace lenders now hold a significant share of the credit supply in the economy, This paper aims to examine marketplace lenders' credit supply reliability relative to traditional banks amidst the COVID-19 pandemic. Employing the Difference-in-Differences (DID) framework alongside the instrumental variable methodology, our findings reveal that marketplace lenders decrease their credit supply by 0.55\% more than large banks and 0.33\% more than small banks in the post-COVID period. Furthermore, we explore the fundamental reason behind the greater vulnerability of marketplace lenders' credit supply compared to banks. Our analysis indicates that the reliance on individual investors makes the funding sources of marketplace lenders less stable relative to those of banks. Additionally, we find a statistically significant indication that individual investors reduce their credit supply by 0.05\% and 0.06\% compared to passive and active institutional investors, respectively, in response to the COVID-19 crisis. Overall, the findings offer valuable insights for policymakers in designing strategies to strengthen credit supply stability and bolster the resilience of marketplace lenders in times of economic crises.
 
-**---**
+---
 
 #### **WORK IN PROGRESS**
 
