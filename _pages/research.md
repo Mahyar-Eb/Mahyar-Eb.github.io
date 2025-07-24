@@ -25,6 +25,7 @@ permalink: /Research/
 }
 </style>
 
+{% raw %}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const buttons = document.querySelectorAll(".toggle-btn");
@@ -38,6 +39,8 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 </script>
+{% endraw %}
+
 
 
 <h2>Research</h2>
