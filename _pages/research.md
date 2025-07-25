@@ -31,5 +31,5 @@ Abstract: Credit supply plays a crucial role in the economy, especially during p
 
 - Learning the Wrong Lesson: How AI Mislabels Borrower Risk During Crises (Solo paper)
 - Built in discrimination: How fair algorithms are unfair (Solo paper)
-- Unveiling the Role of AI Recommender Systems in Safeguarding Against Financial Misinformation (Solo)
+- Unveiling the Role of AI Recommender Systems in Safeguarding Against Financial Misinformation (Solo paper)
 - Understanding AI Regulation: Measuring State-Level Legislative Restrictiveness, with Shishir Shakya
