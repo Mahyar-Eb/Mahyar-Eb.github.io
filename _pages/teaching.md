@@ -10,6 +10,13 @@ permalink: /Teaching/
 ---
 
 #### **Instructor**
+**Darla Moore School of Business, University of South Carolina**
+
+Machine Learning and AI: Applications to Finance: Spring 2027
+
+**Darla Moore School of Business, University of South Carolina**
+
+Investment Analysis and Portfolio Management: Fall 2026
 
 **College of Business Administration, University of Wisconsin - La Crosse**
 
