@@ -10,6 +10,7 @@ permalink: /Teaching/
 ---
 
 #### **Instructor**
+
 **Darla Moore School of Business, University of South Carolina**
 
 Machine Learning and AI: Applications to Finance: Spring 2027
