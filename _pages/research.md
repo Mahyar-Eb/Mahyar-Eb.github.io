@@ -8,7 +8,7 @@ permalink: /Research/
 ### Research
 ---
 
-**Research interest:** Banking, Fintech, Corporate Finance, Household Finance, Financial Innovation, Applied Artificial Intelligence
+**Research interest:** Banking, FinTech, Corporate Finance, AI in Finance (ML, DL, ANN, LLMs, and Agentic AI)
 
 ---
 
